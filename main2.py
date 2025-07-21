@@ -5,5 +5,5 @@ if num >= 0:
     print(f"Square root of {num} is {sprt}")
     
 else:
-    print("Cannot compute the square root of negative number: ")
+    print("Cannot compute the square root of negative number:35 ")
    
